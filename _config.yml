@@ -7,14 +7,12 @@
 
 # Site settings
 title: ExocTBlid
-email: your-email@domain.com
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a test to figure
-  out github pages for the purpose
-  of potentially having a blog.
+  A Profile and Hodgepodge of Code.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ethanblomquist.com" # the base hostname & protocol for your site
-twitter_username: ethanblomquist
+# twitter_username: ethanblomquist
 github_username:  exoctblid
 
 # Build settings
