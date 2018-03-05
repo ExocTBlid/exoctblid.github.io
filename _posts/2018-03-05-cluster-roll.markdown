@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Cluster Roll"
-date:   3/5/2018, 2:34:44 PM  
-categories: jekyll update
+date:   2018-03-05T14:59:42-07:00
+categories: python aws
 ---
 This script does the majority of the work to restart the Tomcat application of a cluster in AWS EC2 split by availability zone.
 
